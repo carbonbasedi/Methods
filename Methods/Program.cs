@@ -57,18 +57,12 @@
 //                {
 //                    sum += i;
 //                }
-
-//            }
-//            else if (num == 0)
-//            {
-
 //            }
 //            else
 //            {
 //                for (int i = 0; i >= num; i--)
 //                {
 //                    sum += i;
-
 //                }
 //            }
 //            return sum;
